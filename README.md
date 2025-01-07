@@ -119,5 +119,5 @@ The workshop will take place in the University of Galway, Galway, Ireland:
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8022.615056807473!2d-9.071864966743952!3d53.28706786442751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b96f169862607%3A0x8b41e03d8f400270!2sUniversity%20of%20Galway!5e0!3m2!1sen!2suk!4v1733484459965!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p align="center">
-	<img width="35%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="11%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="15.6%" src="./Resources/KCL_Logo.png" alt="KCL Logo"> <img width="24%" src="./Resources/UoG_Logo.png" alt="University of Galway Logo">
+	<img width="15%" src="./Resources/MSI_Logo.jpg" alt="RMS Logo"> <img width="13.75%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
