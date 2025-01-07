@@ -20,97 +20,19 @@ Most of the material used in this workshop is a subset of that used for an [ongo
 
 All the slides for the workshop are on Google and accesible [here](https://docs.google.com/presentation/d/1_6mKY4ap9dAfHxY_W8bKVsO3lGmUjXtrVry5OER2wjk/edit?usp=sharing).
 
-# Program
+# What we'll cover
 
-<table style="width:100%">
-	<tbody>
-		<tr>
-			<th colspan=3>Tuesday, April 8th 2025</th>
-		</tr>
-		<tr>
-			<td>09:30 - 10:30</td>
-			<td colspan=3> Registration</td>
-		</tr>
-		<tr>
-			<td>10:30 - 11:45</td>
-			<td>Session 1</td>
-			<td><p>Introduction - Automated Image Analysis is Essential for Reproducible Science</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Why manual analysis is a bad idea</li>
-					<li>Embracing uncertainty</li>
-					<li>What is metadata and why do you need it</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>11:45 - 12:00</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>12:00 - 13:30</td>
-			<td>Session 2</td>
-			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Sara Salgueiro Torres</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Practical Applications:</li>
-					<ul>
-						<li>Basic segmentation using thresholding</li>
-						<li>Use of filtering to suppress noise</li>
-						<li>Obtaining numbers from images</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>13:30 - 14:30</td>
-			<td colspan=2>Lunch</td>
-		</tr>
-		<tr>
-			<td>14:30 - 16:15</td> 
-			<td>Session 3</td>
-			<td><p>Assembling Pipelines and Interpreting Results</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-			<ul>
-				<li>Practical Applications:</li>
-				<ul>
-					<li>Counting and quantifying morphology of objects</li>
-					<li>Quantifying fluorescence intensities</li>
-				</ul>
-			</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>16:15 - 16:30</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>16:30 - 18:00</td> 
-			<td>Session 4</td>
-			<td><p>Introduction to Batch Processing</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-                    <li>Practical Application: </li>
-					<ul>
-						<li>Record commands to form the basis of a script</li>
-					</ul>
-                </ul>
-			</td>
-		</tr>
-	</tbody>
-</table>
+* Why manual analysis is a bad idea
+* Embracing uncertainty
+* What is metadata and why do you need it
+* Basic segmentation using thresholding
+* Use of filtering to suppress noise
+* Obtaining numbers from images
+* Counting and quantifying morphology of objects
+
+And, time perimitting...
+* Segmentation using AI
+* Object Tracking
 
 # Venue
 
