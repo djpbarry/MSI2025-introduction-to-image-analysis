@@ -14,11 +14,11 @@ Most of the material used in this workshop is a subset of that used for an [ongo
 1. Please remember to bring your laptop (and charger).
 2. Please install the required software before the workshop - follow the installation instructions on [this page](Pages/Installation-Instructions.md).
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
-4. **PLEASE CONTACT ME BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
+4. **PLEASE [CONTACT ME](mailto:david.barry@crick.ac.uk) BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Slides
 
-All the slides for the workshop are on Google and accesible [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
+All the slides for the workshop are on Google and accesible [here](https://docs.google.com/presentation/d/1_6mKY4ap9dAfHxY_W8bKVsO3lGmUjXtrVry5OER2wjk/edit?usp=sharing).
 
 # Program
 
