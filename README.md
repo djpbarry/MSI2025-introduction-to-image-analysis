@@ -41,5 +41,5 @@ The workshop will take place in the UCD O'Brien Science Centre, Belfield, Dublin
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3571.7087517918376!2d-6.218293141018528!3d53.310497427048446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4867093147b7b191%3A0xa78e433dfece4bc9!2sO&#39;Brien%20Centre%20for%20Science!5e0!3m2!1sen!2suk!4v1736350968652!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p align="center">
-	<img width="15%" src="./Resources/MSI_Logo.jpg" alt="RMS Logo"> <img width="13.75%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
+	<img width="19%" src="./Resources/MSI_Logo.jpg" alt="RMS Logo"> <img width="17.5%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
